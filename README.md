@@ -1,6 +1,6 @@
 # Fancy Pants Adventure
 
-`Fancy Pants Unblocked` is a Chrome extension package for launching **Fancy Pants Adventure** in a dedicated browser tab with bundled local game files and a local Ruffle runtime.
+`Fancy Pants` is a Chrome extension package for launching **Fancy Pants Adventure** in a dedicated browser tab with bundled local game files and a local Ruffle runtime.
 
 ## Features
 
